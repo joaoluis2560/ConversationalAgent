@@ -1,0 +1,19 @@
+{ 
+ "febre": "head of government",
+  "P7": "brother",
+  "P9": "sister",
+  "P10": "video",
+  "P14": "highway marker",
+  "P15": "route map",
+  "P16": "highway system",
+  "P17": "country",
+  "P18": "image",
+  "P19": "place of birth",
+  "P20": "place of death",
+  "P21": "sex or gender",
+  "P22": "father",
+  "P25": "mother",
+  "P26": "spouse",
+  "P27": "country of citizenship",
+  "P30": "continent"
+}
